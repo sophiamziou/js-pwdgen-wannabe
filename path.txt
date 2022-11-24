@@ -1,0 +1,12 @@
+Esercizio
+Chiedi all’utente il suo nome, poi chiedi il suo cognome, poi chiedi il suo colore preferito Infine scrivi sulla pagina nomecognomecolorepreferito21.
+
+Elenco passaggi:
+1. permettere di inserire il nome
+2. permettere di inserire il cognome
+3. permettere di inserire il colore preferito
+4. aggiungere valore costante 21
+5. concatenare i valori delle variabili e della costante 21
+6. Lo inserisco nell'html
+    6.1 - recupero l'elemento. avente specifico id nel DOM
+    6.2 - Alla sua proprietà innerHTML assegno il risultato della concatenazione
